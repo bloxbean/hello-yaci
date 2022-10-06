@@ -7,3 +7,7 @@
 3. [N2NChainSync](src/main/java/com/bloxbean/cardano/yaci/hello/N2NChainSyncMain.java) - Follow the chain from tip and receive block data in a consumer function
 4. [N2NChainSyncListener](src/main/java/com/bloxbean/cardano/yaci/hello/N2NChainSyncListenerMain.java) - Follow the chain from tip and receive block data in listeners
 
+**To Run**
+- Java 11
+- Build (``./mvnw clean package``)
+- Run the main method in the example
